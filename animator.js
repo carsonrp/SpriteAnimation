@@ -18,8 +18,8 @@ class Animator {
             this.height,
             x,
             y,
-            this.width,
-            this.height
+            this.width*2,
+            this.height*2
         );
     }
 
